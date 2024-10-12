@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Super Hong Kong Chef - Asian Good Food in Harrisburg, PA. Excellent food and amazing prices.">
     <title>Super Hong Kong Chef - Harrisburg, PA</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css?v=0.01">
 </head>
 <body>
 
