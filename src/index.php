@@ -8,13 +8,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Super Hong Kong Chef - Asian Good Food in Harrisburg, PA. Excellent food and amazing prices.">
     <title>Super Hong Kong Chef - Harrisburg, PA</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
 <header>
     <h1>Super Hong Kong Chef</h1>
     <p>Asian Good Food - Excellent Food and Amazing Prices</p>
+    <a href="tel:+17177986832" class="call-now-button">Call Now: (717) 798-6832</a>
 </header>
 
 <main class="container">
