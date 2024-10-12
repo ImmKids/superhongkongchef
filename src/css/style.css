@@ -1,0 +1,66 @@
+/* Reset CSS */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+header, footer {
+  background-color: #d62300;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+
+h1, h2 {
+  margin-bottom: 0.5em;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1em;
+  background-color: #fff;
+}
+
+.party-trays, .hot-bar-specials {
+  margin-top: 2em;
+}
+
+.tray-option {
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin-bottom: 1em;
+  background-color: #f9f9f9;
+}
+
+.tray-option h3 {
+  margin-bottom: 0.5em;
+  color: #d62300;
+}
+
+footer p {
+  margin: 0.5em 0;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  body {
+      font-size: 0.9em;
+  }
+
+  .container {
+      padding: 0.5em;
+  }
+}
