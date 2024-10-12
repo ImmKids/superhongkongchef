@@ -78,7 +78,7 @@ footer {
   background-color: #ff7043; /* Match header color */
   color: #fff;
   text-align: center;
-  padding: 1em 0;
+  padding: 1em 0 2em 0; /* Changed bottom padding to 2em */
 }
 
 footer p {
